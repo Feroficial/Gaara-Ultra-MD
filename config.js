@@ -39,18 +39,18 @@ global.baileys = 'V 6.7.17'
 global.languaje = 'Español'
 global.vs = '2.13.2'
 global.vsJB = '5.0'
-global.nameqr = 'Goku-Black' 
-global.namebot = 'Goku-Black'
-global.vegetasessions = 'GokuSessions'
+global.nameqr = 'Zyro-ligth' 
+global.namebot = 'Zyro-ligth'
+global.vegetasessions = 'ZyroSessions'
 global.jadi = 'JadiBots' 
 global.vegetaJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `Fer Goku-Back`
-global.botname = '𝙂𝙤𝙠𝙪-𝘽𝙡𝙖𝙘𝙠'
-global.dev = '𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙵𝙴𝚁'
-global.textbot = '𝐁𝐲 𝐅𝐞𝐫 𝐆𝐨𝐤𝐮-𝐁𝐥𝐚𝐜𝐤'
+global.packname = `Zyro-litgh`
+global.botname = 'Zyro-ligth'
+global.dev = 'Powered Fer y felipe'
+global.textbot = 'By Fer y felipe Zyro-ligth'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
